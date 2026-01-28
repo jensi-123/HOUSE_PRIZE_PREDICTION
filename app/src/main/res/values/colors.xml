@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navy and Gray Color Palette -->
+    <color name="colorPrimary">#283593</color> <!-- Indigo / Navy -->
+    <color name="colorPrimaryDark">#1A237E</color> <!-- Darker Indigo / Navy -->
+    <color name="colorAccent">#448AFF</color> <!-- Blue Accent -->
+    <color name="app_background">#EEEEEE</color> <!-- Light Gray -->
+    <color name="card_background">#FFFFFF</color> <!-- White -->
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

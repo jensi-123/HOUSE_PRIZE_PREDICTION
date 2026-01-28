@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">atmika</string>
+    <string-array name="furnishing_types">
+        <item>Unfurnished</item>
+        <item>Semi Furnished</item>
+        <item>Fully Furnished</item>
+    </string-array>
+</resources>
